@@ -1,0 +1,15 @@
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\bin\Debug\net6.0\firsttask.exe
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\bin\Debug\net6.0\firsttask.deps.json
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\bin\Debug\net6.0\firsttask.runtimeconfig.json
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\bin\Debug\net6.0\firsttask.dll
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\bin\Debug\net6.0\firsttask.pdb
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\obj\Debug\net6.0\firsttask.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\obj\Debug\net6.0\firsttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\obj\Debug\net6.0\firsttask.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\obj\Debug\net6.0\firsttask.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\obj\Debug\net6.0\firsttask.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\obj\Debug\net6.0\firsttask.dll
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\obj\Debug\net6.0\refint\firsttask.dll
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\obj\Debug\net6.0\firsttask.pdb
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\obj\Debug\net6.0\firsttask.genruntimeconfig.cache
+C:\Users\Alexey\Desktop\Новая папка\task\firsttask\obj\Debug\net6.0\ref\firsttask.dll
