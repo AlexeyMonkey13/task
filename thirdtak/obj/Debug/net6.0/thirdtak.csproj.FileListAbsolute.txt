@@ -1,0 +1,15 @@
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\bin\Debug\net6.0\thirdtak.exe
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\bin\Debug\net6.0\thirdtak.deps.json
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\bin\Debug\net6.0\thirdtak.runtimeconfig.json
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\bin\Debug\net6.0\thirdtak.dll
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\bin\Debug\net6.0\thirdtak.pdb
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\obj\Debug\net6.0\thirdtak.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\obj\Debug\net6.0\thirdtak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\obj\Debug\net6.0\thirdtak.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\obj\Debug\net6.0\thirdtak.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\obj\Debug\net6.0\thirdtak.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\obj\Debug\net6.0\thirdtak.dll
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\obj\Debug\net6.0\refint\thirdtak.dll
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\obj\Debug\net6.0\thirdtak.pdb
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\obj\Debug\net6.0\thirdtak.genruntimeconfig.cache
+C:\Users\Alexey\Desktop\Новая папка\task\thirdtak\obj\Debug\net6.0\ref\thirdtak.dll
