@@ -1,0 +1,15 @@
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\bin\Debug\net6.0\secondtask.exe
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\bin\Debug\net6.0\secondtask.deps.json
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\bin\Debug\net6.0\secondtask.runtimeconfig.json
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\bin\Debug\net6.0\secondtask.dll
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\bin\Debug\net6.0\secondtask.pdb
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\obj\Debug\net6.0\secondtask.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\obj\Debug\net6.0\secondtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\obj\Debug\net6.0\secondtask.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\obj\Debug\net6.0\secondtask.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\obj\Debug\net6.0\secondtask.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\obj\Debug\net6.0\secondtask.dll
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\obj\Debug\net6.0\refint\secondtask.dll
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\obj\Debug\net6.0\secondtask.pdb
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\obj\Debug\net6.0\secondtask.genruntimeconfig.cache
+C:\Users\Alexey\Desktop\Новая папка\task\secondtask\obj\Debug\net6.0\ref\secondtask.dll
