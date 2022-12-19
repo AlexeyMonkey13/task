@@ -1,0 +1,15 @@
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\bin\Debug\net6.0\fourthtask.exe
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\bin\Debug\net6.0\fourthtask.deps.json
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\bin\Debug\net6.0\fourthtask.runtimeconfig.json
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\bin\Debug\net6.0\fourthtask.dll
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\bin\Debug\net6.0\fourthtask.pdb
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\obj\Debug\net6.0\fourthtask.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\obj\Debug\net6.0\fourthtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\obj\Debug\net6.0\fourthtask.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\obj\Debug\net6.0\fourthtask.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\obj\Debug\net6.0\fourthtask.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\obj\Debug\net6.0\fourthtask.dll
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\obj\Debug\net6.0\refint\fourthtask.dll
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\obj\Debug\net6.0\fourthtask.pdb
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\obj\Debug\net6.0\fourthtask.genruntimeconfig.cache
+C:\Users\Alexey\Desktop\Новая папка\task\fourthtask\obj\Debug\net6.0\ref\fourthtask.dll
